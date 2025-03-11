@@ -5,10 +5,10 @@ Planets outside of our solar system that orbit stars other than our Sun are know
 ### TODOs
 
 - [x] Parameter Calculation and Phase Folding
-- [x] Model Fiitting [https://iopscience.iop.org/article/10.1086/683602/pdf](Batman)
+- [x] Model Fiitting [Batman](https://iopscience.iop.org/article/10.1086/683602/pdf)
 - [x] MCMC Parameter Optimization
-- [ ] Detrending [https://iopscience.iop.org/article/10.3847/1538-3881/ab3984](Wōtan)
+- [ ] Detrending [Wōtan](https://iopscience.iop.org/article/10.3847/1538-3881/ab3984)
 - [ ] TTV, O-C Curve, Data, Residuals
 - [ ] Quick Look, Allesfitter
 - [ ] Spectra, Molecule Identification
-- [ ] [https://github.com/kdeck/TTVFast](TTVFast) for Python Conversion
+- [ ] [TTVFast]([TTVFast](https://github.com/kdeck/TTVFast)) for Python Conversion
