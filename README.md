@@ -11,4 +11,6 @@ Planets outside of our solar system that orbit stars other than our Sun are know
 - [ ] TTV, O-C Curve, Data, Residuals
 - [ ] Quick Look, Allesfitter
 - [ ] Spectra, Molecule Identification
-- [ ] [TTVFast]([TTVFast](https://github.com/kdeck/TTVFast)) for Python Conversion
+- [ ] Lightcurve - Detrend - Normalize - Fold - Periodogram - Riverplot
+- [ ] Dataset - Labeling
+- [ ] CNN Model - Training - Testing
